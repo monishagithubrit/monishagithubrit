@@ -13,7 +13,7 @@ Country = "🇮🇳"
 - 👨‍💻 I'm a CSE Student.
 - 👋 Hi, I’m currently learning at CIT Chennai.
 - 👀 I’m interested in ... Technology
-- 🌱 I’m currently doing intern with #CODSOFT...
+  
 
 - 📫 How to reach me ...[Instagram](https://www.instagram.com/moni_mani_24/)
 
